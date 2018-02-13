@@ -1,4 +1,4 @@
-Robot Simulator
+# Robot Simulator
 
 Assignment Compiler: Jennifer Treanor & Carole McGloughlin
 
